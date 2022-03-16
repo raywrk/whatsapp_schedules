@@ -1,0 +1,7 @@
+plotly
+streamlit
+pandas
+openpyxl
+Pillow
+psycopg2
+pywahtkit

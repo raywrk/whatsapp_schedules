@@ -1,0 +1,244 @@
+Date: 8/3/2022
+Time: 22:45
+Phone Number: +556881155911
+Message: Robo python teste
+--------------------
+Date: 8/3/2022
+Time: 22:51
+Phone Number: +556881155911
+Image: logoNeo.jpg
+Caption: enviando foto e mensagem teste
+--------------------
+Date: 8/3/2022
+Time: 22:51
+Phone Number: +556881155911
+Image: logoNeo.jpg
+Caption: enviando foto e mensagem teste com horário programado
+--------------------
+Date: 8/3/2022
+Time: 22:53
+Phone Number: +556881155911
+Image: logoNeo.jpg
+Caption: enviando foto e mensagem teste com horário programado
+--------------------
+Date: 8/3/2022
+Time: 22:53
+Phone Number: +556881155911
+Image: logoNeo.jpg
+Caption: enviando foto e mensagem teste com horário programado 22:55
+--------------------
+Date: 8/3/2022
+Time: 23:7
+Phone Number: +5513981889217
+Message: Hi
+--------------------
+Date: 8/3/2022
+Time: 23:8
+Phone Number: +5513981889217
+Message: Hi
+--------------------
+Date: 8/3/2022
+Time: 23:7
+Phone Number: +5513981889217
+Message: Hi
+--------------------
+Date: 8/3/2022
+Time: 23:17
+Phone Number: +5513981889217
+Message: Hi
+--------------------
+Date: 8/3/2022
+Time: 23:18
+Phone Number: +5513981889217
+Image: C:/Users/Admin/Documents/whatsapp_eassessoria/logoNeo.jpg
+Caption: 
+--------------------
+Date: 8/3/2022
+Time: 23:43
+Phone Number: +5513981705751
+Message: ola teste de variaveis
+--------------------
+Date: 8/3/2022
+Time: 23:45
+Phone Number: +5513981705751
+Message: ola teste de variaveis
+--------------------
+Date: 9/3/2022
+Time: 22:47
+Phone Number: "+5513981705751"
+Message: "Teste de mensagem"
+--------------------
+Date: 9/3/2022
+Time: 22:51
+Phone Number: "+5513981705751"
+Message: Teste de mensagem
+--------------------
+Date: 9/3/2022
+Time: 22:52
+Phone Number: "+5513981705751"
+Image: C:/Users/Admin/Documents/whatsapp_eassessoria/logoNeo.jpg
+Caption: 
+--------------------
+Date: 9/3/2022
+Time: 22:52
+Phone Number: "+5513981705751"
+Message: Teste de s
+--------------------
+Date: 9/3/2022
+Time: 22:54
+Phone Number: "+5513981705751"
+Image: C:/Users/Admin/Documents/whatsapp_eassessoria/logoNeo.jpg
+Caption: 
+--------------------
+Date: 9/3/2022
+Time: 23:3
+Phone Number: "+5513981705751"
+Message: Teste de mensagem
+--------------------
+Date: 9/3/2022
+Time: 23:4
+Phone Number: "+5513981705751"
+Image: logoNeo.jpg
+Caption: 
+--------------------
+Date: 10/3/2022
+Time: 0:0
+Phone Number: "+5513981705751"
+Message: Teste de mensagem
+--------------------
+Date: 10/3/2022
+Time: 0:2
+Phone Number: "+5513981705751"
+Image: C:/Users/Admin/Documents/whatsapp_eassessoria/logoNeo.jpg
+Caption: 
+--------------------
+Date: 10/3/2022
+Time: 0:2
+Phone Number: "+5513981705751"
+Message: Teste de mensagem Ray
+--------------------
+Date: 10/3/2022
+Time: 0:4
+Phone Number: "+5513981705751"
+Image: C:/Users/Admin/Documents/whatsapp_eassessoria/logoNeo.jpg
+Caption: 
+--------------------
+Date: 10/3/2022
+Time: 0:4
+Phone Number: "+5513981705751"
+Message: Teste de mensagem Ray
+--------------------
+Date: 10/3/2022
+Time: 0:5
+Phone Number: "+5513981705751"
+Message: Teste de mensagem Ray
+--------------------
+Date: 10/3/2022
+Time: 0:7
+Phone Number: "+556899029429"
+Message: Teste de mensagem Ray
+--------------------
+Date: 10/3/2022
+Time: 0:8
+Phone Number: "+556899029429"
+Image: C:/Users/Admin/Documents/whatsapp_eassessoria/logoNeo.jpg
+Caption: 
+--------------------
+Date: 10/3/2022
+Time: 0:10
+Phone Number: "+556899029429"
+Message: Teste de mensagem Ray
+--------------------
+Date: 10/3/2022
+Time: 0:11
+Phone Number: "+556899029429"
+Image: logoNeo.jpg
+Caption: 
+--------------------
+Date: 10/3/2022
+Time: 0:13
+Phone Number: "+556899029429"
+Message: Teste de mensagem Ray
+--------------------
+Date: 10/3/2022
+Time: 0:15
+Phone Number: "+556899029429"
+Image: logoNeo.jpg
+Caption: 
+--------------------
+Date: 10/3/2022
+Time: 0:16
+Phone Number: "+556899029429"
+Message: Teste de mensagem Ray
+--------------------
+Date: 10/3/2022
+Time: 0:17
+Phone Number: "+556899029429"
+Image: C:/Users/Admin/Documents/whatsapp_eassessoria/logoNeo.jpg
+Caption: 
+--------------------
+Date: 13/3/2022
+Time: 13:47
+Phone Number: +13981705751
+Message: Mensagem teste python
+--------------------
+Date: 13/3/2022
+Time: 14:38
+Phone Number: +556699111000
+Message: Mensagem em python para teste
+--------------------
+Date: 14/3/2022
+Time: 20:12
+Phone Number: +556881155911
+Message: mensagem aqui python
+--------------------
+Date: 14/3/2022
+Time: 20:15
+Phone Number: +556881155911
+Image: C:/Users/Admin/Documents/whatsapp_eassessoria/banner-1.jpg
+Caption: 
+--------------------
+Date: 14/3/2022
+Time: 20:18
+Phone Number: +556881155911
+Message: mensagem aqui python
+--------------------
+Date: 14/3/2022
+Time: 20:20
+Phone Number: +556881155911
+Image: C:/Users/Admin/Documents/whatsapp_eassessoria/banner-1.jpg
+Caption: 
+--------------------
+Date: 14/3/2022
+Time: 20:20
+Phone Number: +5513981705751
+Message: mensagem aqui
+--------------------
+Date: 14/3/2022
+Time: 20:30
+Phone Number: +5513981705751
+Image: C:/Users/Admin/Documents/whatsapp_eassessoria/banner-1.jpg
+Caption: 
+--------------------
+Date: 14/3/2022
+Time: 20:30
+Phone Number: +5513981705751
+Message: mensagem aqui
+--------------------
+Date: 14/3/2022
+Time: 21:10
+Phone Number: +5513981705751
+Image: C:/Users/Admin/Documents/whatsapp_eassessoria/banner-1.jpg
+Caption: 
+--------------------
+Date: 14/3/2022
+Time: 21:10
+Phone Number: +5513981705751
+Message: mensagem aqui
+--------------------
+Date: 14/3/2022
+Time: 21:45
+Phone Number: +5513981705751
+Image: C:/Users/Admin/Documents/whatsapp_eassessoria/banner-1.jpg
+Caption: 
+--------------------
